@@ -1,0 +1,74 @@
+---
+layout: default
+---
+
+{% if page.show %}
+<style>
+.post-list {
+    list-style-type: none;
+    padding: 0;
+    margin: 0;
+}
+
+.post-item {
+    display: block;
+    clear: both;
+}
+</style>
+
+<div class="page-anchors">
+{% assign first = true %}
+{% for category in page.selected_categories %}
+  {% assign posts = site.categories.[category] | sort: 'title' | sort: 'ordinal', 'first' %}
+  {% for post in posts %}
+    {% if first %}
+      {% assign first = false %}
+    {% else %}
+      &bull;
+    {% endif %}
+    <a href="#{{ post.title | slugify }}">
+      {{ post.title }}   
+    </a>
+  {% endfor %}
+{% endfor %}
+
+</div>
+{% endif %}
+
+
+{% for category in page.selected_categories %}
+
+<div class="home">
+
+  <h1 class="page-heading">
+    {% if site.data.category_details.[category] %}
+      {{ site.data.category_details.[category].display_name }}
+    {% else %}
+      {{ category }}
+    {% endif %}
+  </h1>
+
+  <ul class="post-list">
+    {% assign posts = site.categories.[category] | sort: 'title' | sort: 'ordinal', 'first' %}
+    {% for post in posts %}
+      <li class="post-item">
+        <a name="{{ post.title | slugify }}"></a>
+        <h2>
+          <a class="post-link" href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a>
+        </h2>
+        {% if page.show %}
+        <div class="content">
+          {% if page.show == "excerpt" %}
+            {{ post.content | strip_html | truncatewords:75 }}
+          {% else if page.show == "full" %}
+            {{ post.content }}
+          {% endif %}
+        </div>
+        {% endif %}
+      </li>
+    {% endfor %}
+  </ul>
+
+</div>
+
+{% endfor %}

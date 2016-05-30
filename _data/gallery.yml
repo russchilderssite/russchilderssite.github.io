@@ -1,0 +1,20 @@
+ # TODO: See if this is a good idea or not. The nice jekyll plugin I was using
+ #       is unsupported by GitHub
+gallery:
+  # path to the gallery
+  dir: gallery
+  # title for gallery index
+  title: "Gallery"
+
+images:
+  - path: "cornhusk_dolls/2005clc4.jpg"
+    thumb: "cornhusk_dolls/thumbs/2005clc4.jpg"
+  
+  - path: "cornhusk_dolls/2005clc5.jpg"
+    thumb: "cornhusk_dolls/thumbs/2005clc5.jpg"
+    highlight: true
+
+  - path: "homemade_instruments/bv5.jpg"
+    thumb: "homemade_instruments/thumbs/bv5.jpg"
+
+  # etc...

@@ -1,0 +1,131 @@
+---
+---
+
+.center {
+    display: block;
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.right {
+    margin: 1em;
+    display: block;
+    float: right;
+}
+
+/* https://jsfiddle.net/k7xwxj7a/ */
+p.figure {
+    margin: 1em;
+}
+
+p.figure em {
+  display: block;
+  font-size: 10pt;
+  text-align: left;
+}
+
+p.figure-left {
+  display: block;
+  float: left;
+}
+
+p.figure-right {
+  display: block;
+  float: right;
+}
+
+p.figure-left img {
+  display: block;
+}
+
+p.figure-right img {
+  display: block;
+}
+
+p.figure-center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+p.figure-center img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+p.figure-center em {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 250px;
+}
+
+.logo {
+    margin-top: 1em;
+}
+
+.logo a {
+    text-decoration: none !important;
+    border-bottom: none;
+}
+
+.logo a:hover {
+    text-decoration: none !important;
+    border-bottom: none;
+}
+
+.post-content strong {
+    font-weight: bold;
+}
+
+.content {
+    margin-top: 0;
+    margin-bottom: 1.5em;
+}
+
+.post-item {
+    margin: 0;
+}
+
+.post-item h2 {
+    margin: 0;
+}
+
+.home h1 {
+    margin: 0 0 .5em 0;
+}
+
+.page-anchors a {
+    font-size: 9pt;
+    white-space: nowrap;
+}
+
+.page-anchors {
+    margin-bottom: 1em;
+}
+
+@mixin music() {
+    color: black;
+    font-size: 10pt;
+}
+
+.songs, .dances, .figures_and_breaks {
+    color: black;
+    font-size: 12pt;
+    
+    p {
+        line-height: normal;
+    }
+    
+    blockquote {
+        padding-bottom: 0em;
+    }
+}
+
+ul.contact-list {
+  list-style-type: none;
+  padding: 0;
+  margin: 0em 0 2em 0;  
+}

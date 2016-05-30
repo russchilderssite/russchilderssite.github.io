@@ -1,0 +1,19 @@
+# This data file provides additional info for the different categories
+
+activities:
+    display_name: Activities
+
+books:
+    display_name: "Appalachian Booklists"
+    
+dances:
+    display_name: Dances
+    
+figures_and_breaks:
+    display_name: "Figures &amp; Breaks"
+
+songs:
+    display_name: Songs
+    
+studies:
+    display_name: "Study Guidies"

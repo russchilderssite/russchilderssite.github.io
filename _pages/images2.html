@@ -1,0 +1,19 @@
+---
+layout: default
+title: Gallery2
+permalink: images2.html
+---
+
+<div>
+
+<ul>
+{% for file in site.static_files %}
+
+{% if file.path contains '/gallery/' and file.extname == '.jpg' %}
+
+<li>{{ file.path }}</li>
+
+{% endif %}
+{% endfor %}
+</ul>
+</div>

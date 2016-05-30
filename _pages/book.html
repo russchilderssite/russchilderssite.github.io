@@ -1,0 +1,33 @@
+---
+layout: default
+permalink: book.html
+---
+
+<div class="home">
+
+  <h1 class="page-heading">
+    {{ site.data.category_details.books.display_name }}
+  </h1>
+
+  <ul class="book-list">
+    {% for post in site.categories.books reversed %}
+      <li>
+        <a class="post-link" href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a>
+      </li>
+    {% endfor %}
+  </ul>
+
+  <h1 class="page-heading">Other Appalachian Reading Resources</h1>
+  <ul class="book-list">
+    <li>
+      <a class="post-link" target="_blank" href="http://www.carolhurst.com/subjects/appalachia.html">
+      Carol Hurst's Children's Literature Site: Appalachia
+      </a>
+    </li>
+    <li>
+      <a class="post-link" target="_blank" href="http://www.ferrum.edu/applit/bibs/folkresources.htm">
+        Ferrum College, Appalachian Folktales: Background resources
+      </a>
+    </li>
+  </ul>
+</div>
