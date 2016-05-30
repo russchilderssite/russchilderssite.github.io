@@ -1,8 +1,9 @@
 ---
 layout: post
-title:  "Virginia Reel"
+title: Virginia Reel
 category: dances
 ordinal: 999
+published: true
 ---
 
 Prompts to Virginia Reel:   
@@ -36,3 +37,7 @@ New head couple
 > Partners meet and promenade home.  
 > Come back up where you belong  
 > with a New Head Couple!
+
+[More dances]({{ site.baseurl }}dance.html)
+
+
