@@ -38,6 +38,6 @@ New head couple
 > Come back up where you belong  
 > with a New Head Couple!
 
-[More dances]({{ site.baseurl }}dance.html)
+[More dances]({{ site.baseurl }}/dance.html)
 
 
