@@ -53,9 +53,7 @@ layout: default
     {% for post in posts %}
       <li class="post-item">
         <a name="{{ post.title | slugify }}"></a>
-        <h2>
-          <a class="post-link" href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a>
-        </h2>
+        <a class="post-link" href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a>
         {% if page.show %}
         <div class="content">
           {% if page.show == "excerpt" %}
