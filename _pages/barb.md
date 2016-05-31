@@ -22,12 +22,10 @@ well. Her captivated audiences range in age from children to senior citizens.
 Barb and her husband, veteran performers of over 30 years, make their home in
 Batavia, Ohio.
 
-Contact Barb Childers by email
-[BarbChilders@fuse.net](mailto:BarbChilders@fuse.net)
-or call <i class="fa fa-phone" aria-hidden="true"></i>
-(513) 732-2015.
-<i class="fa fa-fw fa-map-marker" aria-hidden="true"></i>
-1555 Old State Route 74, Batavia, Ohio 45103
+Contact Barb Childers <br />
+by email <i class="fa fa-envelope" aria-hidden="true"></i> [{{ site.barb_email }}](mailto:{{ site.barb_email }})<br />
+or call <i class="fa fa-phone" aria-hidden="true"></i> [(513) 732-2015](tel:513-732-2015).<br />
+or write <i class="fa fa-fw fa-map-marker" aria-hidden="true"></i> 1555 Old State Route 74, Batavia, Ohio 45103
 
 # Sampling of Stories
 

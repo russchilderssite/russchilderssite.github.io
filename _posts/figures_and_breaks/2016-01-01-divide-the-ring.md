@@ -2,7 +2,6 @@
 layout: post
 title:  "Divide the Ring"
 category: figures_and_breaks
-ordinal: 7
 ---
 
 DIVIDE THE RING AND DOCEY PARTNERS 

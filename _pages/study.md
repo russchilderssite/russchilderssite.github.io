@@ -5,7 +5,7 @@ permalink: study.html
 
 # Study Guides
 
-Study guides developed by Barb Childers in association with Cincinnati Arts
+Study guides developed by Barb Childers in conjunction with Cincinnati Arts
 Association, [Artists on Tour](https://www.cincinnatiarts.org/education-community/artists-on-tour/aot_season){: target="_blank" }.  
 
 * [Banjo from Africa to America](http://cincinnatiarts.s3.amazonaws.com/doc/Banjo.pdf){: target="_blank" } 

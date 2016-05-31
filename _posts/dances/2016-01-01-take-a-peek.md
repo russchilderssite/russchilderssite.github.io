@@ -1,11 +1,11 @@
 ---
 layout: post
-title:  "Crawdad Hole"
+title:  "Take a Peek"
 skip_header: true
 category: dances
 ---
 
-# Crawdad Dance
+# Take a Peek
 
 _Source: Eileen Britton - Jerusalem, Ohio_
 

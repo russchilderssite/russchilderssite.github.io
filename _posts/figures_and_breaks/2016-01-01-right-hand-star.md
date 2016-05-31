@@ -2,7 +2,6 @@
 layout: post
 title:  "Right Hand Star"
 category: figures_and_breaks
-ordinal: 2
 ---
 
 Right hand across and form a star   

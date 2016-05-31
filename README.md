@@ -18,3 +18,4 @@ TODOs:
 - [ ] SCSS consolidate
 - [ ] Blue link bug
 - [X] RSS icon
+- [ ] Consolidate images directories

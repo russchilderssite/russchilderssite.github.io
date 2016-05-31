@@ -33,9 +33,11 @@ author:
   email            : "russchilders1@gmail.com"
   facebook         : BearFootMusicStoriesDance
 
-gems:
-  - jekyll-paginate
-  # jekyll-gallery-generator
+barb_email: "barbchilders1@gmail.com"
+
+#gems:
+#  - jekyll-paginate
+#    jekyll-gallery-generator
 
 gallery:
   # path to the gallery
