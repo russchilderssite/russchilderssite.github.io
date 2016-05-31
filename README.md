@@ -13,8 +13,8 @@ TODOs:
 - [ ] Repoint DNS
 - [ ] Russ github account
 - [ ] Russ prose.io account
-- [ ] Posts page:
-      - [ ] Add categories, tags, dates ???
+- [X] Posts page:
+      - [X] Add categories, tags, dates ???
 - [ ] SCSS consolidate
 - [ ] Blue link bug
-- [ ] RSS icon
+- [X] RSS icon
