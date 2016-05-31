@@ -6,8 +6,15 @@ title: Posts
 <div class="home">
   
 <!-- This loops through the paginated posts -->
-{% for post in paginator.posts reversed %}
+{% for post in paginator.posts %}
   <h1><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></h1>
+  
+  {% capture mindate %}{{'1/1/2016' | date: '%s'}}{% endcapture %}
+  {% capture posttime %}{{post.date | date: '%s'}}{% endcapture %}
+  {% if posttime > mindate %}
+    <div class="post-meta"><time datetime="{{ post.date | date_to_xmlschema }}" itemprop="datePublished">{{ post.date | date: "%b %-d, %Y" }}</time>{% if post.author %} • <span itemprop="author" itemscope itemtype="http://schema.org/Person"><span itemprop="name">{{ post.author }}</span></span>{% endif %}</div>
+  {% endif %}
+  
   <div class="content">
     {{ post.content | strip_html | truncatewords:75}}
   </div>
@@ -30,6 +37,9 @@ title: Posts
   {% endif %}
 </div>
 
-  <p class="rss-subscribe">subscribe <a href="{{ site.baseurl }}/feed.xml">via RSS</a></p>
+  <p class="rss-subscribe">
+    <i class="fa fa-rss" aria-hidden="true"></i>
+    subscribe <a href="{{ site.baseurl }}/feed.xml">via RSS</a>
+  </p>
 
 </div>
