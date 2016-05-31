@@ -18,7 +18,7 @@
 	input[type="button"],
 	.button {
 		position: relative;
-		-ms-behavior: url('assets/js/ie/PIE.htc');
+		-ms-behavior: url('/assets/js/ie/PIE.htc');
 	}
 
 /* Form */
@@ -29,7 +29,7 @@
 	select,
 	textarea {
 		position: relative;
-		-ms-behavior: url('assets/js/ie/PIE.htc');
+		-ms-behavior: url('/assets/js/ie/PIE.htc');
 	}
 
 	input[type="text"],
@@ -53,7 +53,7 @@
 
 	.image {
 		position: relative;
-		-ms-behavior: url('assets/js/ie/PIE.htc');
+		-ms-behavior: url('/assets/js/ie/PIE.htc');
 
 		&:before, &:after {
 			display: none !important;
@@ -61,7 +61,7 @@
 
 		img {
 			position: relative;
-			-ms-behavior: url('assets/js/ie/PIE.htc');
+			-ms-behavior: url('/assets/js/ie/PIE.htc');
 		}
 	}
 
@@ -71,7 +71,7 @@
 		background-image: url('../../images/bg.jpg');
 		background-repeat: no-repeat;
 		background-size: cover;
-		-ms-behavior: url('assets/js/ie/backgroundsize.min.htc');
+		-ms-behavior: url('/assets/js/ie/backgroundsize.min.htc');
 
 		h1 {
 			color: _palette(accent2, fg-bold);
