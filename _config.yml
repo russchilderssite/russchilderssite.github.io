@@ -45,6 +45,6 @@ gallery:
   # title for gallery index
   title: "Gallery"
 
-paginate: 5 # amount of posts to show
-paginate_path: /posts/page:num/
+#paginate: 5 # amount of posts to show
+#paginate_path: /posts/page:num/
 timezone: America/New_York # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
