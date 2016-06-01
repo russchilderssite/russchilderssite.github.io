@@ -3,15 +3,18 @@
   <title>Russ Childers</title>
   <meta charset="utf-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+  <meta property="og:url" content="{{ site.og.url }}">
+  <meta property="og:title" content="{{ site.title }}">
+  <meta property="og:description" content="{{ site.description | strip_newlines }}">  
+  <meta property="og:type" content="{{ site.og.type }}">
+  <meta property="og:image" content="{{ site.url }}{{ site.baseurl }}{{ site.og.image.url }}">
+  <meta property="og:image:type" content="{{ site.og.image.type }}">
+
   <link rel="icon" type="image/png" href="{{ site.baseurl }}/favicon-32x32.png">
   <!--[if lte IE 8]><script src="{{ site.baseurl }}/assets/js/ie/html5shiv.js"></script><![endif]-->
   <link rel="stylesheet" href="{{ site.baseurl }}/assets/css/main.css" />
   <link rel="stylesheet" href="{{ site.baseurl }}/assets/css/nav.css" />
   <link rel="stylesheet" href="{{ site.baseurl }}/assets/css/cust.css" />
   <!--[if lte IE 8]><link rel="stylesheet" href="{{ site.baseurl }}/assets/css/ie8.css" /><![endif]-->
-
-  <meta property="og:image" content="{{ site.url }}{{ site.baseurl }}{{ site.og.image.url }}">
-  <meta property="og:image:type" content="{{ site.og.image.type }}">
-  <meta property="og:title" content="{{ site.title }}">
-  <meta property="og:description" content="{{ site.description }}">  
 </head>

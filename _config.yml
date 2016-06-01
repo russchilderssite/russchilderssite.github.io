@@ -35,8 +35,10 @@ environment: prod
 barb_email: "barbchilders1@gmail.com"
 google_analytics: UA-78652537-1
 
-# Open Graphics
+# Open Graph social media tags
 og:
+  url: "http://russchilders.com/"
+  type: website
   image:
     url  : /assets/images/feature.jpg
     type : image/jpg
