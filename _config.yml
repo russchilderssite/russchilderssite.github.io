@@ -8,10 +8,8 @@
 # Site settings
 title: "Russ Childers"
 description: > # this means to ignore newlines until "baseurl:"
-  Russ Childers is available for programs on Appalachian traditions, from one-hour
-  presentations to two or three-week residencies which may include storytelling,
-  music and songs with traditional instruments, or basic techniques in
-  mountain-style squaredancing.
+    I share Appalachian traditions through
+    storytelling, music, and dance.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://russchilders.com" # the base hostname & protocol for your site
 
@@ -37,11 +35,11 @@ environment: prod
 barb_email: "barbchilders1@gmail.com"
 google_analytics: UA-78652537-1
 
-feature_image:
-  url    : /assets/images/feature.jpg
-  type   : image/jpg
-  height : 530
-  width  : 800
+# Open Graphics
+og:
+  image:
+    url  : /assets/images/feature.jpg
+    type : image/jpg
 
 #gems:
 #  - jekyll-paginate
