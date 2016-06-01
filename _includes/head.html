@@ -1,4 +1,5 @@
 <head>
+  <!-- {{ site.environment }} -->
   <title>Russ Childers</title>
   <meta charset="utf-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1" />
@@ -8,5 +9,9 @@
   <link rel="stylesheet" href="{{ site.baseurl }}/assets/css/nav.css" />
   <link rel="stylesheet" href="{{ site.baseurl }}/assets/css/cust.css" />
   <!--[if lte IE 8]><link rel="stylesheet" href="{{ site.baseurl }}/assets/css/ie8.css" /><![endif]-->
-  <!-- {{ site.environment }} -->
+
+  <meta property="og:image" content="{{ site.baseurl }}{{ site.feature_image.url }}">
+  <meta property="og:image:type" content="{{ site.feature_image.type }}">
+  <meta property="og:image:width" content="{{ site.feature_image.width }}">
+  <meta property="og:image:height" content="{{ site.feature_image.height }}">
 </head>

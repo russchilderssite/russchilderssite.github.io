@@ -37,6 +37,12 @@ environment: prod
 barb_email: "barbchilders1@gmail.com"
 google_analytics: UA-78652537-1
 
+feature_image:
+  url    : /assets/images/ballet.jpg
+  type   : image/jpg
+  height : 530
+  width  : 800
+
 #gems:
 #  - jekyll-paginate
 #    jekyll-gallery-generator
