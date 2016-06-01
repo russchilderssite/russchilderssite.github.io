@@ -33,7 +33,9 @@ author:
   email            : "russchilders1@gmail.com"
   facebook         : BearFootMusicStoriesDance
 
+environment: prod
 barb_email: "barbchilders1@gmail.com"
+google_analytics: UA-78652537-1
 
 #gems:
 #  - jekyll-paginate

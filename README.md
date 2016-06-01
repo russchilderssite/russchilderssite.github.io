@@ -19,3 +19,6 @@ TODOs:
 - [ ] Blue link bug
 - [X] RSS icon
 - [ ] Consolidate images directories
+
+Directions:
+`jekyll serve -w --config _config.yml,_config-dev.yml`
