@@ -42,3 +42,5 @@ fields:
   config:
     min: '0'
     step: '1'
+pages:
+- _posts/blog/test-post.md
