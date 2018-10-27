@@ -31,3 +31,14 @@ fields:
   label: Category
   description: Please select the category of the post
   default: activities
+- type: boolean
+  name: skip_header
+  label: Skip Header
+  description: Indicates whether to show the title heading on the page
+- type: number
+  name: ordinal
+  label: Ordinal
+  description: The order to show the post
+  config:
+    min: '0'
+    step: '1'
