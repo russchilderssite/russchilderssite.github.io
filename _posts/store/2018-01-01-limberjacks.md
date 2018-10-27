@@ -10,5 +10,4 @@ category: store
 
 Under construction!
 
-{: .figure style="width:100px" }
-![Here's a picture of Fiona](assets/images/FIONA.jpg)
+![Here's a picture of Fiona](assets/images/FIONA.jpg){: style="width:100px"}
