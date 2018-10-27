@@ -38,7 +38,7 @@ fields:
 - type: number
   name: ordinal
   label: Ordinal
-  description: The order to show the post
+  description: The order to show the post (can be left blank)
   config:
     min: '0'
     step: '1'
