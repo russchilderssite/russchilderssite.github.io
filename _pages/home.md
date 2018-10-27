@@ -4,6 +4,7 @@ title: Traditional Appalachian Music and Stories
 permalink: index.html
 ordinal: 1
 menu_name: Home
+published: true
 ---
 
 {: .figure .figure-center }
@@ -42,3 +43,5 @@ through singing and rhythm exercises with the performer. Featured instruments
 are the banjo, fiddle, lap dulcimer, guitar, and various homemade/recycled
 instruments. Storytelling includes traditional Jack tales, tall tales, and
 personal anecdotes.
+
+Hi Russ! This is a test blurb!
