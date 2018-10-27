@@ -1,19 +1,29 @@
 # This data file provides additional info for the different categories
 
+store:
+    display_name: Store
+    ord: 1
+
 activities:
     display_name: Activities
+    ord: 2
 
 books:
     display_name: "Appalachian Booklists"
-    
+    ord: 3
+
 dances:
     display_name: Dances
-    
+    ord: 4
+
 figures_and_breaks:
     display_name: "Figures &amp; Breaks"
+    ord: 5
 
 songs:
     display_name: Songs
-    
+    ord: 6
+
 studies:
     display_name: "Study Guidies"
+    ord: 7
