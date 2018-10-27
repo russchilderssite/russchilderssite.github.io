@@ -4,8 +4,6 @@ hide_body: false
 is_partial: false
 fields:
 - type: text
-  default: author
-- type: text
   default: category
 pages:
 - _posts/blog/2018-10-27-test-post.md
