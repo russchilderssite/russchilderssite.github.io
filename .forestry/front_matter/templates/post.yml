@@ -43,4 +43,4 @@ fields:
     min: '0'
     step: '1'
 pages:
-- _posts/blog/test-post.md
+- _posts/blog/2018-10-27-test-post.md
