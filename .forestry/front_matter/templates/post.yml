@@ -1,0 +1,33 @@
+---
+label: Post
+hide_body: false
+is_partial: false
+fields:
+- type: text
+  name: layout
+  label: layout
+  hidden: true
+  config:
+    required: false
+  default: post
+- type: text
+  label: Author
+  name: author
+  description: The author of the post
+- type: select
+  name: category
+  config:
+    source:
+      type: simple
+    required: true
+    options:
+    - activities
+    - blog
+    - books
+    - dances
+    - figures_and_breaks
+    - songs
+    - store
+  label: Category
+  description: Please select the category of the post
+  default: activities
