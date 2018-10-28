@@ -9,8 +9,8 @@ Github pages website:
 
 TODOs:
 - [ ] Gallery that is native to Github
-- [ ] Russ github account
-- [ ] Russ prose.io account
+- [X] Russ github account
+- [X] Russ prose.io account
 - [ ] SCSS consolidate
 - [ ] Blue link bug
 - [ ] Consolidate images directories
