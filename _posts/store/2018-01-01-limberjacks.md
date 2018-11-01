@@ -22,8 +22,6 @@ The basic lumberjacks are men/women, chickens, and goats and come in a verity of
 
 ![Elephant](uploads/elephant-limberjack-small.jpg)
 
-![Chicken](uploads/chicken-limberjack-small.jpg)
-
 ![Giraffe](uploads/giraffe-limberjack-small.jpg)
 
 ![Zebra](uploads/zebra-limberjack-small.jpg)
