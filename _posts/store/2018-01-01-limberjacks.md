@@ -10,9 +10,9 @@ category: store
 
 ![Fiona](uploads/fiona-limberjack-small.jpg)
 
-Handcrafted dancing goat limberjacks, hippos, opossums... and more... available for purchase. Get your Christmas orders in early! Message [Russ Childers](https://www.facebook.com/russ.childers.14?__tn__=%2CdK-R-R&eid=ARDD68-o13fGN9DtDxYm_fcSLDSwEnfP4XpS4h736Ib-rjMJDBxiQv-ViEluEzIEH4VPN9vQkjQWItu1&fref=mentions).
+Handcrafted dancing goat limberjacks, hippos, opossums... and more... available for purchase. Get your Christmas orders in early! E-mail to russchilders1@gmail.com.
 
-These unique Appalachian lumberjacks are handcrafted to provide many enjoyable hours of fun.  Originally parents and grandparents "whittled" these toys into shapes of men which were held together with pieces of wire.
+These unique Appalachian lumberjacks are handcrafted to provide many enjoyable hours of fun.  Originally craftsmen  "whittled" these toys into shapes of men which were held together with pieces of wire. I employ power tools and manufactured eye hooks for their assemble.
 
 The basic lumberjacks are men/women, chickens, and goats and come in a verity of colors.
 
@@ -21,7 +21,5 @@ The basic lumberjacks are men/women, chickens, and goats and come in a verity of
 ![Chicken](uploads/chicken-limberjack-small.jpg)We also do special orders.  Below are examples:
 
 ![Elephant](uploads/elephant-limberjack-small.jpg)
-
-![Giraffe](uploads/giraffe-limberjack-small.jpg)
 
 ![Zebra](uploads/zebra-limberjack-small.jpg)
