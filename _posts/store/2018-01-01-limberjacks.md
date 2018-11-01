@@ -14,7 +14,7 @@ I make handcrafted dancing goat limberjacks, hippos, opossums... and more... ava
 
 Get your Christmas orders in early! E-mail to russchilders1@gmail.com.
 
-These unique painted Appalachian limberjacks are handcrafted to provide many enjoyable hours of fun.  Originally mountain craftsmen whittled these "jacks" into shapes which were held together with pieces of wire. I use power tools and eye hooks for their assembly.
+My uniquely painted Appalachian limberjacks are handcrafted to provide many enjoyable hours of fun.  Originally mountain craftsmen whittled these "jacks" into shapes which were held together with pieces of wire. I use power tools and eye hooks for their assembly.
 
 The basic limberjacks I make are men/women, chickens, and goats.  They come in a variety of colors. Each limberjack comes with a paddle board.
 
