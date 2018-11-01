@@ -10,9 +10,7 @@ category: store
 
 **WHAT IS A LIMBERJACK?**  A limberjack is a loose-limbed dancing doll.  This toy probably originated in 16th century Europe when a seated street performer attached a string from his knee to a jointed wooden toy and by jiggling made it dance on a board.  A wooden stick replaced the string sometime in 19th century England.  In Appalachia, these traditional toys are often hand-carved with a stick in the back.  The manipulator, keeping time to a lively fiddle tune, taps on a narrow flexible wooden board.  The vibrating board makes the doll appear to do a clackety mountain clog dance. A skillful handler can make this toy an effective rhythm instrument.
 
-I make handcrafted dancing goat limberjacks, hippos, opossums... and more... available for purchase. $30 plus shipping.
-
-Get your Christmas orders in early! E-mail to russchilders1@gmail.com.
+I make handcrafted dancing goat limberjacks, hippos, opossums... and more... available for purchase. $30 plus shipping. Inquiries to russchilders1@gmail.com.
 
 My uniquely painted Appalachian limberjacks are handcrafted to provide many enjoyable hours of fun.  Originally mountain craftsmen whittled these "jacks" into shapes which were held together with pieces of wire. I use power tools and eye hooks for their assembly.
 
