@@ -8,8 +8,6 @@ category: store
 ---
 # Limberjacks
 
-![Fiona](uploads/fiona-limberjack-small.jpg)
-
 I make handcrafted dancing goat limberjacks, hippos, opossums... and more... available for purchase. $30 plus shipping.
 
 Get your Christmas orders in early! E-mail to russchilders1@gmail.com.
