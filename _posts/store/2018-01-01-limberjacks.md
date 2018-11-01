@@ -10,7 +10,9 @@ category: store
 
 ![Fiona](uploads/fiona-limberjack-small.jpg)
 
-Handcrafted dancing goat limberjacks, hippos, opossums... and more... available for purchase. Get your Christmas orders in early! E-mail to russchilders1@gmail.com.
+Handcrafted dancing goat limberjacks, hippos, opossums... and more... available for purchase. $30 plus shipping.
+
+Get your Christmas orders in early! E-mail to russchilders1@gmail.com.
 
 These unique Appalachian lumberjacks are handcrafted to provide many enjoyable hours of fun.  Originally craftsmen  "whittled" these toys into shapes of men which were held together with pieces of wire. I employ power tools and manufactured eye hooks for their assemble.
 
