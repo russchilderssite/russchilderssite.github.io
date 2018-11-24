@@ -26,6 +26,8 @@ The basic limberjacks I make are men/women, chickens, and goats.  They come in a
 
 We also do special orders.  Below are examples:
 
+![](/uploads/Hippo.JPG)
+
 ![Elephant](uploads/elephant-limberjack-small.jpg)
 
 ![](/uploads/Opossum.JPG)
