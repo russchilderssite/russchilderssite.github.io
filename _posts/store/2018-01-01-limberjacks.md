@@ -32,7 +32,7 @@ The basic limberjacks I make are men/women, chickens, and goats.  They come in a
 
 <iframe width="300" height="450" src="[https://www.youtube.com/embed/ik_QbUFqFIg?rel=0](https://www.youtube.com/embed/ik_QbUFqFIg?rel=0 "https://www.youtube.com/embed/ik_QbUFqFIg?rel=0")" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-<iframe width="300" height="450" src="https://www.youtube.com/embed/FVOMSEDPPV4?rel=0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen><i/frame>
+<iframe width="300" height="450" src="https://www.youtube.com/embed/FVOMSEDPPV4?rel=0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ![Chicken](uploads/chicken-limberjack-small.jpg)
 
