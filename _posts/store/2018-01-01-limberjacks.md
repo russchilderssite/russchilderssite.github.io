@@ -8,7 +8,7 @@ category: store
 ---
 # Limberjacks
 
-<iframe width="400" height="600" src="https://www.youtube.com/embed/3HS5MiImR8k?rel=0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> [Limberjack in action](https://youtu.be/3HS5MiImR8k "https://youtu.be/3HS5MiImR8k")
+<iframe width="300" height="450" src="https://www.youtube.com/embed/3HS5MiImR8k?rel=0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> [Limberjack in action](https://youtu.be/3HS5MiImR8k "https://youtu.be/3HS5MiImR8k")
 
 **WHAT IS A LIMBERJACK?**  A limberjack is a loose-limbed dancing doll.  This toy probably originated in 16th century Europe when a seated street performer attached a string from his knee to a jointed wooden toy and by jiggling made it dance on a board.  A wooden stick replaced the string sometime in 19th century England.  In Appalachia, these traditional toys are often hand-carved with a stick in the back.  The manipulator, keeping time to a lively fiddle tune, taps on a narrow flexible wooden board.  The vibrating board makes the doll appear to do a clackety mountain clog dance. A skillful handler can make this toy an effective rhythm instrument.
 
