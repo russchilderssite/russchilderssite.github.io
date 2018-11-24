@@ -28,6 +28,8 @@ We also do special orders.  Below are examples:
 
 ![Elephant](uploads/elephant-limberjack-small.jpg)
 
+![](/uploads/Opossum.JPG)
+
 ![Zebra](uploads/zebra-limberjack-small.jpg)
 
 ![](/uploads/IMG_5082.jpg)
