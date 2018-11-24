@@ -28,4 +28,4 @@ We also do special orders.  Below are examples:
 
 ![Zebra](uploads/zebra-limberjack-small.jpg)
 
-![](/uploads/IMG_5082.jpg)
+![](/uploads/IMG_5082-1.jpg)
