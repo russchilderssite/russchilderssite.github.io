@@ -20,6 +20,8 @@ The basic limberjacks I make are men/women, chickens, and goats.  They come in a
 
 ![Man](uploads/man-limberjack-small.jpg "Man")
 
+![](/uploads/IMG_7024-1.jpg)
+
 ![Chicken](uploads/chicken-limberjack-small.jpg)
 
 We also do special orders.  Below are examples:
