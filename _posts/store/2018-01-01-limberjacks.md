@@ -30,6 +30,8 @@ We also do special orders.  Below are examples:
 
 ![](/uploads/Hound dog.JPG)
 
+![](/uploads/Wiener Dog copy.JPG)
+
 ![Elephant](uploads/elephant-limberjack-small.jpg)
 
 ![](/uploads/Opossum.JPG)
