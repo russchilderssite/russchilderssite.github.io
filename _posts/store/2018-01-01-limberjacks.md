@@ -32,6 +32,8 @@ We also do special orders.  Below are examples:
 
 ![](/uploads/Wiener Dog copy.JPG)
 
+![](/uploads/Horse.JPG)
+
 ![Elephant](uploads/elephant-limberjack-small.jpg)
 
 ![](/uploads/Opossum.JPG)
