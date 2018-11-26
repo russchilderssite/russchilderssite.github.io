@@ -26,25 +26,25 @@ The basic limberjacks I make are men/women, chickens, and goats.  They come in a
 
 <iframe width="300" height="450" src="https://www.youtube.com/embed/ik_QbUFqFIg?rel=0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-![](/uploads/IMG_7024-1.jpg)
+![](/uploads/IMG_7024-1.jpg) **Limber Goat**
 
 <iframe width="250" height="375" src="https://www.youtube.com/embed/FV0MSEDPPV4?rel=0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-![Chicken](uploads/chicken-limberjack-small.jpg)
+![Chicken](uploads/chicken-limberjack-small.jpg)  **Limber Chicken**
 
 <iframe width="300" height="450" src="https://www.youtube.com/embed/jaZgVPZxEpw?rel=0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 #### **We also do special orders.  Below are examples:**
 
-![](/uploads/Hippo.JPG)
+> ![](/uploads/Hippo.JPG) **Limber Hippo** 
 
-![](/uploads/Hound dog.JPG)
+![](/uploads/Hound dog.JPG) **Limber Hound**
 
-![](/uploads/Wiener Dog copy.JPG)
+![](/uploads/Wiener Dog copy.JPG) **Limber Dachshund**
 
-![](/uploads/Horse.JPG)
+![](/uploads/Horse.JPG) **Limber Horse**
 
-![Elephant](uploads/elephant-limberjack-small.jpg)
+![Elephant](uploads/elephant-limberjack-small.jpg) **Limber Elephant**
 
 ![](/uploads/Opossum.JPG)
 
