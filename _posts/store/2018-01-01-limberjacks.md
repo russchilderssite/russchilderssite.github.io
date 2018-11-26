@@ -18,13 +18,11 @@ My uniquely painted Appalachian limberjacks are handcrafted to provide many enjo
 
 The basic limberjacks I make are men/women, chickens, and goats.  They come in a variety of colors. Each limberjack comes with a paddle board.
 
-![Man](uploads/man-limberjack-small.jpg "Man")Limber Jack
+![](/uploads/man-limberjack-small.jpg)**Limber Jack**
 
 <iframe width="300" height="450" src="https://www.youtube.com/embed/MZBEx9SNZSM?rel=0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-![](/uploads/IMG_7469.jpg)
-
-Limber Jill
+![](/uploads/IMG_7469.jpg)  **Limber Jill**
 
 <iframe width="300" height="450" src="https://www.youtube.com/embed/ik_QbUFqFIg?rel=0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
