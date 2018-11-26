@@ -36,7 +36,7 @@ The basic limberjacks I make are men/women, chickens, and goats.  They come in a
 
 #### **We also do special orders.  Below are examples:**
 
-> ![](/uploads/Hippo.JPG) **Limber Hippo** 
+![](/uploads/Hippo.JPG) **Limber Hippo Fiona**
 
 ![](/uploads/Hound dog.JPG) **Limber Hound**
 
@@ -46,14 +46,12 @@ The basic limberjacks I make are men/women, chickens, and goats.  They come in a
 
 ![Elephant](uploads/elephant-limberjack-small.jpg) **Limber Elephant**
 
-![](/uploads/Opossum.JPG)
+![](/uploads/Opossum.JPG) **Limber Opossum**
 
-![Zebra](uploads/zebra-limberjack-small.jpg)
+![Zebra](uploads/zebra-limberjack-small.jpg) **Limber Zebra**
 
-![](/uploads/Lion.jpg)
+![](/uploads/Lion.jpg) **Limber Lion**
 
-![](/uploads/Flamingo.JPG)
+![](/uploads/Flamingo.JPG) **Limber Flamingo**
 
-<iframe width="300" height="450" src="https://www.youtube.com/embed/gbyV2Wd2aEg?rel=0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
-![](/uploads/Scotty.JPG)
+![](/uploads/Scotty.JPG) **Limber Scottie**
